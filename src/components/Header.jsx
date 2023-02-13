@@ -11,9 +11,6 @@ const Header = () => {
       <a href="void0" className="float-left text-2xl pl-4 pt-3 text-white">
         Meme Generator
       </a>
-      <a href="void0" className="float-right text-white">
-        React Project 3
-      </a>
     </div>
   );
 };
